@@ -1,2 +1,2 @@
 # Code-Jam
-Solution of Code Jam Problem will be here
+Solutions of Code Jam Problems will be here
