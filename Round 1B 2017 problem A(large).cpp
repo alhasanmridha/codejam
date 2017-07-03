@@ -1,5 +1,3 @@
-//Problem Link
-//https://code.google.com/codejam/contest/8294486/dashboard
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
