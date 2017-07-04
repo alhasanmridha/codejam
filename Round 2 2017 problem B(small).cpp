@@ -7,7 +7,7 @@ int main(){
 	cin>>T;
 	for(int C=1;C<=T;C++){
 		cout<<"Case #"<<C<<": ";
-		int n,tr=0,ride=0,c,m,p[1001],b[1001],one[1001],two[1001],sz[1001];
+		int n,tr=0,ride=0,c,m,p,b,one[1001],two[1001],sz[1001];
 		bool found;
 		cin>>n>>c>>m;
 		for(int i=0;i<=n;i++){
@@ -16,16 +16,14 @@ int main(){
 			sz[i]=0;
 		}
 		for(int i=0;i<m;i++){
-			cin>>p[i]>>b[i];
-			if(b[i]==1){
-				cnt_one++;
-				one[p[i]]++;
-				sz[p[i]]++;
+			cin>>p>>b;
+			if(b==1){
+				one[p]++;
+				sz[p]++;
 			}
 			else{
-				cnt_two++;
-				two[p[i]]++;
-				sz[p[i]]++;
+				two[p]++;
+				sz[p]++;
 			}
 		}
 		for(int i=1;i<=n;i++){
