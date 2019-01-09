@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	freopen("in.txt","r",stdin);
 	freopen("out.txt","w",stdout);
-	int T;
+	int  T;
 	cin>>T;
 	for(int c=1;c<=T;c++){
 		string leader,str;
