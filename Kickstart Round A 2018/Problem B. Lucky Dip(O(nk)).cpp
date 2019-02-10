@@ -12,15 +12,15 @@ int main(){
         double v[n];
         for(int i=0;i<n;i++)
         scanf("%lf",v+i);
-        double e0=0;
+        double e=0;
         for(int i=0;i<k+1;i++){
             double sum=0;
             for(int j=0;j<n;j++){
-                sum = sum + max((double)v[j],e0);
+                sum = sum + max((double)v[j],e);
 
 			}
-            e0=sum/(double)n;
+            e=sum/(double)n;
         }
-        cout<<"Case #"<<tc<<": "<<setprecision(7)<<fixed<<e0<<"\n";
+        cout<<"Case #"<<tc<<": "<<setprecision(7)<<fixed<<e<<"\n";
     }
 }
