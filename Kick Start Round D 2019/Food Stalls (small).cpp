@@ -2,6 +2,7 @@
 #define S 100001 //size of the array
 using namespace std;
 typedef long long int ll;
+
 int k,n;
 struct point{
 	ll x,c;
@@ -14,6 +15,7 @@ point p[S];
 int get_cost(int i,int j){
 	return p[i].c+abs(p[i].x-p[j].x);
 }
+
 int main(){
 	int t;
 	cin>>t;
