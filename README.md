@@ -6,7 +6,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [ ] Parcels
     - [ ] Contention
 1. [Round B 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
-    - [x] Building Palindromes
+    - [x] [Building Palindromes](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20B%202019%20/Building%20Palindromes.cpp)
     - [ ] Energy Stones
     - [ ] Diverse Subarray
 1. [Round C 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051061)
