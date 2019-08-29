@@ -1,4 +1,4 @@
-I created this to keep my solutions of google codejam and kick start problems. These problems are very interesting and help a lot to learn new algorithms and datastructures. Most of the problems are solved according to the official analysis.
+I created this to keep my solutions of google codejam and kick start problems. These problems are very interesting and help a lot to learn new algorithms and datastructures. Most of the problems are solved according to the official analysis. Please put your thoughts [here](https://github.com/alhasanmridha/codejam/issues/3)
 
 ## Google Codejam Kickstart Solutions
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
