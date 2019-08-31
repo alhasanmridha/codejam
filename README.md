@@ -19,4 +19,6 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Food Stalls](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20D%202019/Food%20Stalls.cpp)
 1. [Round E 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edb)
     - [x] [Cherries Mesh](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20E%202019/Cherries%20Mesh.cpp) : [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+    - [ ] Code-Eat Switcher
+    - [x] [Street Checkers](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20E%202019/Street%20Checkers.cpp) : [Analysis of Street Checkers](https://alhasanmridha.github.io/street_checkers.html)(removed ambiguity), [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/)
 
