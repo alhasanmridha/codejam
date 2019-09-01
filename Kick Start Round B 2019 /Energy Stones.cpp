@@ -5,13 +5,13 @@ struct stone {
 };
 int t, n, s, e, l,dp[100][10001];
 stone st[100];
-int solve(int id, int time){
-	if(id==n) return 0;
-	int &ans=dp[id][time];
-	if(ans!=-1)
-		return ans;
-	ans=max(solve(id+1,time+st[id].s)+st[id].e-st[id].l*time,solve(id+1,time));
-	return ans;
+int solve(int id, int time) {
+    if (id == n) return 0;
+    int & ans = dp[id][time];
+    if (ans != -1)
+        return ans;
+    ans = max(solve(id + 1, time + st[id].s) + st[id].e - st[id].l * time, solve(id + 1, time));
+    return ans;
 }
 int main() {
     scanf("%d", & t);
