@@ -24,9 +24,7 @@ int main() {
         sort(st, st + n, [](stone a, stone b) {
             return a.s * b.l < b.s * a.l;
         });
-		for(int i=0;i<n;i++)
-			for(int j=0;j<=10000;j++)
-				dp[i][j]=-1;
+	for(int i = 0; i < n; i++) for(int j = 0; j <= 10000; j++) dp[i][j] = -1;    
         cout << "Case #" << nt << ": " << solve(0,0) << "\n";
     }
     return 0;
