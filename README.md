@@ -7,7 +7,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [ ] Contention
 1. [Round B 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Building Palindromes](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20B%202019%20/Building%20Palindromes.cpp)
-    - [ ] Energy Stones
+    - [x] [Energy Stones](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20B%202019%20/Energy%20Stones.cpp) : [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem), [std::sort](https://en.cppreference.com/w/cpp/algorithm/sort)
     - [ ] Diverse Subarray
 1. [Round C 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051061)
     - [x] [Wiggle Walk](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20D%202019/X%20or%20What.cpp) : [std::unordered_set](https://en.cppreference.com/w/cpp/container/unordered_set)
