@@ -24,5 +24,5 @@ I created this to keep my solutions of google codejam and kick start problems. T
 
 ## Codejam Solutions
 1. [Round 1B 2008](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
-    - [x] [B. Number Sets](https://github.com/alhasanmridha/codejam/blob/master/Round%201B%202008/B.%20Number%20Sets.cpp)
+    - [x] [B. Number Sets](https://github.com/alhasanmridha/codejam/blob/master/Round%201B%202008/B.%20Number%20Sets.cpp) : [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/), [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
     
