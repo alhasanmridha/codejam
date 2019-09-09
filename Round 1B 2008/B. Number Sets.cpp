@@ -17,7 +17,7 @@ void merge(int a, int b){
 }
 LL P;
 vector < long long int > primes;
-int number_of_primes_in(long long int m, long long int n) {
+int solve(long long int m, long long int n) {
     int cnt = 0;
 	int is_prime[n - m + 2];
 	for (int i = 0; i + m <= n; i++){
@@ -67,7 +67,7 @@ int main() {
     cin >> t;
     while (t--) {
         cin >> l >> r >> P;
-        cout << "Case #" << ++nt << ": " << number_of_primes_in(l, r) << "\n";
+        cout << "Case #" << ++nt << ": " << solve(l, r) << "\n";
     }
     return 0;
 }
