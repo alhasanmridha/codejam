@@ -1,6 +1,6 @@
 I created this to keep my solutions of google codejam and kick start problems. These problems are very interesting and help a lot to learn new algorithms and datastructures. Most of the problems are solved according to the official analysis. Please put your thoughts [here](https://github.com/alhasanmridha/codejam/issues/3)
 
-## Google Codejam Kickstart Solutions
+## Kickstart Solutions
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Wiggle Walk](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20A%202019/Training.cpp)
     - [ ] Parcels
@@ -22,3 +22,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Code-Eat Switcher](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20E%202019/Code-Eat%20Switcher.cpp)
     - [x] [Street Checkers](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20E%202019/Street%20Checkers.cpp) : [Analysis of Street Checkers](https://alhasanmridha.github.io/street_checkers.html)(removed ambiguity), [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/)
 
+## Codejam Solutions
+1. [Round 1B 2008](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
+    - [x] [B. Number Sets](https://github.com/alhasanmridha/codejam/blob/master/Round%201B%202008/B.%20Number%20Sets.cpp)
+    
