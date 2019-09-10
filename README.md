@@ -23,6 +23,8 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Street Checkers](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start%20Round%20E%202019/Street%20Checkers.cpp) : [Analysis of Street Checkers](https://alhasanmridha.github.io/street_checkers.html)(removed ambiguity), [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/)
 
 ## Codejam Solutions
+1. [Round 1A 2008]()
+    - [x] [A. Minimum Scalar Product](https://github.com/alhasanmridha/codejam/blob/master/Round%201A%202008/A.%20Minimum%20Scalar%20Product.py)
 1. [Round 1B 2008](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [B. Number Sets](https://github.com/alhasanmridha/codejam/blob/master/Round%201B%202008/B.%20Number%20Sets.cpp) : [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/), [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
     
