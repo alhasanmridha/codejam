@@ -50,10 +50,10 @@ int main() {
     sort(gen[1].begin(), gen[1].end());
     for (int i = 0; i < gen[1].size(); i++) A[i] = gen[1][i].second;
     build(1, 0, gen[1].size() - 1);
-    LL ans = 0 LL;
+    LL ans = 0LL;
     for (int i = 0; i < gen[0].size(); i++) {
       target = h - gen[0][i].first;
-      st = lower_bound(gen[1].begin(), gen[1].end(), make_pair(target, 0 LL)) - gen[1].begin();
+      st = lower_bound(gen[1].begin(), gen[1].end(), make_pair(target, 0LL)) - gen[1].begin();
       target = h - gen[0][i].second;
       ans += query(1, 0, gen[1].size() - 1, st, gen[1].size() - 1, target);
     }
