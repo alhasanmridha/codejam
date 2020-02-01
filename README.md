@@ -3,7 +3,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
 ## Kickstart Solutions
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Training](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Training.cpp)
-    - [ ] Parcels
+    - [x] [Parcels](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Parcels.cpp)
     - [ ] Contention
 1. [Round B 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
     - [x] [Building Palindromes](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20B%202019%20/Building%20Palindromes.cpp)
