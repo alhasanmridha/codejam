@@ -21,6 +21,10 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Cherries Mesh](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20E%202019/Cherries%20Mesh.cpp) : [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
     - [x] [Code-Eat Switcher](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20E%202019/Code-Eat%20Switcher.cpp)
     - [x] [Street Checkers](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20E%202019/Street%20Checkers.cpp) : [Analysis of Street Checkers](https://alhasanmridha.github.io/street_checkers.html)(removed ambiguity), [Segmented Sieve of Eratosthenes](https://forthright48.com/segmented-sieve-of-eratosthenes/)
+1. [Round F 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edc)
+    - [ ] Flattening
+    - [x] [Teach Me](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Round%20F%202019/teachme.cpp)
+    - [ ] Spectating Villages
 1. [Round G 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02)
     - [x] [Book Reading](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20G%202019/Book%20Reading.cpp)
     - [ ] The Equation
