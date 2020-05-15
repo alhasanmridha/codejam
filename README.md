@@ -31,6 +31,8 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Shifts](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20G%202019/Shifts.cpp) : [Segment Tree, Merge Sort Tree](https://cp-algorithms.com/data_structures/segment_tree.html), [Meet in the Middle Algorithm](https://www.quora.com/What-is-meet-in-the-middle-algorithm-w-r-t-competitive-programming)
 
 ## Codejam Solutions
+1. [Round 1C 2020](https://codingcompetitions.withgoogle.com/codejam/)
+    - [x] [Overexcited Fan](https://github.com/alhasanmridha/codejam/blob/master/Code%20Jam/Round%201C%202020/Overexcited%20Fan.cpp)
 1. [Round 1A 2008]()
     - [x] [A. Minimum Scalar Product](https://github.com/alhasanmridha/codejam/blob/master/Code%20Jam/Round%201A%202008/A.%20Minimum%20Scalar%20Product.py)
 1. [Round 1B 2008](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
