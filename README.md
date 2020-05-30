@@ -29,7 +29,10 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Book Reading](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20G%202019/Book%20Reading.cpp)
     - [ ] The Equation
     - [x] [Shifts](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20G%202019/Shifts.cpp) : [Segment Tree, Merge Sort Tree](https://cp-algorithms.com/data_structures/segment_tree.html), [Meet in the Middle Algorithm](https://www.quora.com/What-is-meet-in-the-middle-algorithm-w-r-t-competitive-programming)
-
+1. [Round H 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd)
+    - [x] [H-index](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20H%202019/H-index.cpp)
+    - [ ] Diagonal Puzzle
+    - [ ] Elevanagram
 ## Codejam Solutions
 1. [Round 1C 2020](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4)
     - [x] [Overexcited Fan](https://github.com/alhasanmridha/codejam/blob/master/Code%20Jam/Round%201C%202020/Overexcited%20Fan.cpp)
