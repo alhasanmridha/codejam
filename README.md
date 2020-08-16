@@ -1,6 +1,11 @@
 I created this to keep my solutions of google codejam and kick start problems. These problems are very interesting and help a lot to learn new algorithms and datastructures. Most of the problems are solved according to the official analysis. Please put your thoughts [here](https://github.com/alhasanmridha/codejam/issues/3)
 
 ## Kickstart Solutions
+1. [Round A 2020](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7)
+    - [x] [Allocation](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%202020/Round%20A/Allocation.cpp)
+    - [x] [Plates](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%202020/Round%20A/Plates.cpp)
+    - [x] [Workout](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%202020/Round%20A/Workout.cpp)
+    - [ ] Bundling
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Training](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Training.cpp)
     - [x] [Parcels](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Parcels.cpp)
