@@ -28,18 +28,16 @@ void insert(string &s)
 	}
 }
 
-int n, k;
+int n, k, ans;
 string s[N];
 
-int query(trie* cur, int lvl)
+void query(trie* cur)
 {
 	if(!cur)
-		return 0;
-	int ans = (cur -> cnt / k);
+		return;
+	ans += (cur -> cnt / k);
 	for(int i = 0; i <= 25; i++)
-		if(cur -> bit[i])
-			ans += query(cur -> bit[i], lvl + 1);
-	return ans;
+			query(cur -> bit[i]);
 }
  
 int32_t main()
@@ -58,7 +56,8 @@ int32_t main()
 			cin >> s[i];
 			insert(s[i]);
 		}
-		int ans = query(head, 0);
+		ans = 0;
+		query(head);
 		cout << "Case #" << tc << ": " << ans << endl;
  	}	
 	return 0;
