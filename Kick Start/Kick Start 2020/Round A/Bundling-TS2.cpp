@@ -5,18 +5,14 @@ struct tri{
 	tri* nxt[26];
 	int cnt=0;
 };
-tri* root;
-void construct(string &s){
-	tri* cur=root;
-	for(auto c:s){
-		int b=c-'A';
-		if(!cur->nxt[b]) cur->nxt[b]=new tri();
-		cur=cur->nxt[b];
-		cur->cnt++;
-	}
+void construct(tri* root, string& s, int id){
+	if(id==(int)s.length()) return;
+	if(root->nxt[s[id]-'A']==NULL) root->nxt[s[id]-'A']=new tri();
+	root->nxt[s[id]-'A']->cnt++;
+	construct(root->nxt[s[id]-'A'],s,id+1); //I love recursion
 }
 void get(tri* root){
-	if(!root) return;
+	if(root==NULL) return;
 	ans+=root->cnt/k;
 	for(int i=0;i<26;i++) get(root->nxt[i]);
 }
@@ -24,8 +20,8 @@ int solve(){
 	cin>>n>>k;
 	string s[n];
 	for(int i=0;i<n;i++) cin>>s[i];
-	root=new tri();
-	for(string a:s) construct(a);
+	tri* root=new tri();
+	for(string a:s) construct(root,a,0);
 	ans=0;
 	get(root);
 	return ans;
@@ -35,3 +31,5 @@ int main(){
 	cin>>t;
 	while(t--) cout<<"Case #"<<++nt<<": "<<solve()<<"\n";
 }
+
+

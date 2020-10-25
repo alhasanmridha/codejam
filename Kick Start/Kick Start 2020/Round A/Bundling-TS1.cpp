@@ -16,7 +16,6 @@ int solve(){
 	int ans=0;
 	for(auto a:cntPrefix) ans+=a.second/k;
 	return ans;
-
 }
 int main(){
 	int t,nt=0;
