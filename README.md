@@ -7,7 +7,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
     - [x] [Workout](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%202020/Round%20A/Workout.cpp)
     - [ ] Bundling
 1. Round E 2020
-    - [x] [Toys](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Round%20E%202020/Toys.cpp)
+    - [x] [Toys](./Kick%20Start/Round%20E%202020/Toys.cpp)
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Training](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Training.cpp)
     - [x] [Parcels](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Parcels.cpp)
