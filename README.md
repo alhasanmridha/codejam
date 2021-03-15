@@ -9,6 +9,7 @@ I created this to keep my solutions of google codejam and kick start problems. T
 1. Round E 2020
     - [x] [Toys](./Kick%20Start/Round%20E%202020/Toys.cpp)
     - [x] [High Buildings](./Kick%20Start/Kick%20Start%202020/Round%20E/High%20Buildings.cpp)
+    - [x] [Longest Arithmetic](./Kick%20Start/Kick%20Start%202020/Round%20E/Longest%20Arithmetic.cpp)
 1. [Round A 2019](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
     - [x] [Training](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Training.cpp)
     - [x] [Parcels](https://github.com/alhasanmridha/codejam/blob/master/Kick%20Start/Kick%20Start%20Round%20A%202019/Parcels.cpp)
